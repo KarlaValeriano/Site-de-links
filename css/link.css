@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-   background-color: rgb(159, 177, 171);
+   background-color: #ce869e;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ body{
     margin-bottom: 50px;
 }
 .img-profile{
-    width: 220px;
+    width: 230px;
     height: 220px;
     border-radius: 50%;
     border-color: #353434;
@@ -34,14 +34,15 @@ body{
     font-weight: 300;
     color:whitesmoke;
     margin-top: 5px;
-    text-shadow: 5px 5px 5px rgb(40, 68, 59); 
+    text-shadow: 5px 5px 5px #b85073; 
 }
 .img-box h2{
     font-family: 'roboto',sans-serif;
     font-weight: 100;
-    font-size: 14px;
-    color:#353434;
+    font-size: 20px;
+    color:whitesmoke;
     text-align: center;
+    text-shadow: 5px 5px 5px #b85073;
    
 
    
@@ -52,13 +53,13 @@ body{
     max-width: 790px;
     height: 70px;
     border-radius: 10px;
-    background-color: whitesmoke;
+    background-color:#fae9ee;
     display: flex;
     justify-content: center;
     align-content: center;
     margin-bottom: 20px;
     cursor: pointer;
-    box-shadow: 3px 3px 3px 3px rgb(80, 126, 111); 
+    box-shadow: 3px 3px 3px 3px #b85073; 
 
 }
 .link-box a{
@@ -75,7 +76,8 @@ body{
 
 }
 .link-box:hover{
-    background-color: rgb(103, 133, 119);
+    background-color:#b65d7a;
+  
 }
 footer{
     width: 100%;
@@ -83,6 +85,6 @@ footer{
     color:whitesmoke;
     text-align: center;
     margin-top: 50px;
-    text-shadow: 6px 6px 6px rgb(26, 46, 39); 
+    text-shadow: 6px 6px 6px #b85073; 
     
 }
